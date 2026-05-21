@@ -15,7 +15,7 @@ escribir "¿ya pago la cuota?"
 si cuota == 1
 Ecribir "Todo listo, suba al bus"
 Sino
-Escribir "Tiene permiso, pero no has pagado.No puedes subir
+Escribir "Tiene permiso, pero no has pagado.No puedes subir"
 FinSi
 Escribir "Sin la firma de tu representante, no viajas. Te quedas en el colegio
 FinAlgoritmo
